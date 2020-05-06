@@ -2,6 +2,8 @@ package tests;
 
 public class Login {
 
-    // wrote code here
+    public static void main(String[] args) {
+
+    }
 
 }
